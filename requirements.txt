@@ -1,0 +1,17 @@
+streamlit
+pandas
+python-dotenv
+openai>=1.0.0
+tqdm
+pathlib
+typing-extensions
+dataclasses; python_version<"3.7"
+
+
+# streamlit==1.31.0
+# langgraph==0.2.18
+# networkx==3.2.1
+# pydantic==1.10.15
+# python-dotenv==1.0.1
+# pyarrow==14.0.2
+# openai>=1.42.0
